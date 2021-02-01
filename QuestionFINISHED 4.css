@@ -1,0 +1,55 @@
+body{
+  background-color:#0000FF;
+  font-family:verdana;
+  color: #CCCCCC;
+  text-align: center;
+}
+#banner {
+  width: 1000px;
+  height: 100px;
+}
+.nav-main{
+  width:1000px;
+  height:50px;
+  background-color: darkblue;
+  text-align: left;
+  line-height: 50px;
+  color: #CCCCCC;
+}
+#rover{
+  margin-left: 20px;
+  background-color: Lightblue;
+  padding: 5px;
+
+}
+
+a{
+  text-decoration: none;
+}
+article{
+  width:500px;
+  height:500px;
+display:inline-block;
+vertical-align: top;
+}
+aside{
+  width: 500px;
+  height: 500px;
+display:inline-block;
+
+}
+img{
+  width: 150px;
+  height: 150px;
+}
+.footer{
+  width:1000px;
+  height:50px;
+  color:#FFFF00;
+  background-color:darkblue;
+  line-height:50px;
+}
+
+#email{
+  color:#FFFF00;
+}
